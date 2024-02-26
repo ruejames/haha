@@ -1,6 +1,6 @@
 <?php 
 
-echo "haha";
+echo "hehe";
 
 
  ?>
